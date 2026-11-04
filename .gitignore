@@ -1,0 +1,23 @@
+# Maven 构建产物
+target/
+
+# maven-shade-plugin 生成的精简 pom
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# 日志与系统文件
+*.log
+.DS_Store
+Thumbs.db
